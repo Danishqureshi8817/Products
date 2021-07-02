@@ -144,7 +144,7 @@ function show()
 }
 
 
-/*window.oncontextmenu=function(){
+window.oncontextmenu=function(){
     console.log("Right Click Disabled");
     return false; 
-}*/
+}
